@@ -30,7 +30,7 @@ A fullstack MERN application to help students track and manage their job applica
 
 ## Live Demo
 
-- Frontend: [https://cuvette-assignment-lemon.vercel.app/](https://cuvette-assignment-lemon.vercel.app/)
+- Frontend: [https://student-job-tracker-deshpandas-projects.vercel.app/](https://student-job-tracker-deshpandas-projects.vercel.app/)
 - Backend API: [https://student-job-tracker-api.onrender.com](https://student-job-tracker-api.onrender.com)
 
 ## Project Structure
